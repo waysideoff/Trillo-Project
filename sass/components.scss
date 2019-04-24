@@ -6,8 +6,6 @@
 }
 
 
-
-
 ///////////////////////////////////
 // SEARCH
 .search {
@@ -117,6 +115,34 @@
 		border-radius: 50%;
 		margin-right: 1rem;
 	}
+}
+
+
+/////////////////////////
+// SIDE NAVIGATION
+.side-nav {
+	&__item {
+
+	}
+
+	&__link {
+
+	}
+
+	&__icon {
+		width: 1.75rem;
+		height: 1.75rem;
+	}
+}
+
+
+/////////////////////
+// LEGAL TEXT
+.legal {
+	font-size: 1.2rem;
+	color: var(--color-grey-light-4);
+	text-align: center;
+	padding: 2.5rem;
 }
 
 
